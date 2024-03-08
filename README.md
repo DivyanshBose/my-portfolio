@@ -27,4 +27,8 @@ Windows:
 
 ```bash
 git clone https://github.com/DivyanshBose/my-portfolio.git
-``
+```
+## Acknowledgements
+
+This portfolio is built using the template from [@codewithsadee](https://github.com/codewithsadee). Thank you for providing such a great starting point!
+
